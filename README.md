@@ -13,4 +13,4 @@ Este repositório contém um eBook sobre os fundamentos da Programação Orienta
 [Baixe o eBook aqui]()
 
 ## Prompts Utilizados
-Consulte o arquivo `prompts.txt` para ver os prompts que foram utilizados na criação deste eBook.
+Consulte o arquivo `prompts.odt` para ver os prompts que foram utilizados na criação deste eBook.
