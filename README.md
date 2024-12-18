@@ -22,7 +22,7 @@ A capa do eBook foi criada utilizando inteligência artificial (Leonardo AI).
 - Polimorfismo
 
 ## Link para o eBook
-[Baixe o eBook aqui]()
+[Baixe o eBook aqui](https://github.com/GilcimarMoraes/ebook-poo/blob/main/Ebook-poo.pdf)
 
 ## Prompts Utilizados
 Consulte o arquivo `prompts.odt` para ver os prompts que foram utilizados na criação deste eBook.
