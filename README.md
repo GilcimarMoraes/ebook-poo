@@ -10,7 +10,7 @@ A capa do eBook foi criada utilizando inteligência artificial (Leonardo AI).
 
 **Tamanho da imagem**: 1024x1024 pixels.
 
-![Capa do eBook]()
+![Capa do eBook](https://github.com/GilcimarMoraes/ebook-poo/blob/main/Imagem_ebook.jpg)
 
 
 
